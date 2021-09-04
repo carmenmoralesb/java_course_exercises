@@ -1,5 +1,5 @@
-# <em>Ejercicios de Java ☕:sparkles:</em>
+# <em> Java exercises ☕: flashes: </ em>
 
-Ejercicios de java realizados en el curso 2018/19
+Java exercises carried out in the 2018/19 academic year
 
-Todos los programas tienen una interfaz gráfica creada con NetBeans + Swing.
+All programs have a graphical interface created with NetBeans + Swing.
