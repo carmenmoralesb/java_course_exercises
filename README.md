@@ -1,4 +1,4 @@
-# <em> Java exercises ☕: flashes: </ em>
+# <em> Java exercises ☕ :flashes: </em>
 
 Java exercises carried out in the 2018/19 academic year
 
